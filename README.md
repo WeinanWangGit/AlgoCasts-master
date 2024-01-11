@@ -1,3 +1,7 @@
 # AlgoCasts
 
-Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
+This is practice project of Stephen's Algorithms + Data Structures course
+
+Using javascript solve the algorithms problems, and Using Jest to test.
+
+
